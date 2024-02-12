@@ -1,1 +1,2 @@
-select * from dbo.mytable
+select * from dbo.mytable 
+where column =1
